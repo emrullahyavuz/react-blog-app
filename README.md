@@ -25,4 +25,6 @@ Geliştirme sunucusunun portunu değiştirmek için vite.config.js dosyasında s
 ![react-blog-2](https://github.com/user-attachments/assets/f87e5e11-5ce5-44ee-9c79-7d026dcc5739)
 ![react-blog-3](https://github.com/user-attachments/assets/d23454fc-2615-462a-b723-4947e7a413a8)
 ![react-blog-4](https://github.com/user-attachments/assets/9e660d4f-5a9a-430a-886b-566a8d2772f0)
+![react-blog-5](https://github.com/user-attachments/assets/69ae7968-0afa-4453-bc74-8eb4f5c84298)
+
 
